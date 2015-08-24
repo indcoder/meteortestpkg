@@ -22,7 +22,7 @@ Package.onUse(function(api) {
 
 Package.onTest(function(api) {
   api.use('tinytest');
-  api.use('indcoder:testpack');
+  api.use('incoder:testpack');
   api.addFiles('testpack-tests.js');
 });
 
