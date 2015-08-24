@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'indcoder:testpack',
+  name: 'incoder:testpack',
   version: '0.0.1',
   // Brief, one-line summary of the package.
   summary: 'Demonstration of an Atmosphere package',
